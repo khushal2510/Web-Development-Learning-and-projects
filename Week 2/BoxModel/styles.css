@@ -1,0 +1,18 @@
+.box{
+    height: 100px;
+    width: 100px;
+    border: 1px solid black;
+    margin: 10px;
+    padding: 10px;
+   
+}
+
+#aa{
+    background-color: orange;
+}
+#bb{
+    background-color: white;
+}
+#cc{
+    background-color: green;
+}
